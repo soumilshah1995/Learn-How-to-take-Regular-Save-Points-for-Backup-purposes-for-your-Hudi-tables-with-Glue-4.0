@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/39345855/220790899-d2076743-9390-4602-9e5b-319a66591927.png)
 
+## Video absed guide 
+* https://www.youtube.com/watch?v=VgIMPSK7rFA&feature=youtu.be
+
+
 ## Glue job Settings 
 ![image](https://user-images.githubusercontent.com/39345855/220790961-fa486aab-9c43-4cce-8f17-301f27737f2c.png)
 
